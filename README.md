@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 Editando desde GitHub
 
 Fusionando
+Editando desde repositorio local
